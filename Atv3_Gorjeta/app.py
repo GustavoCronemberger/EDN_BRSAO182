@@ -13,7 +13,7 @@ print(f"A gorjeta será de R$ {calcular_gorjeta(valor_da_conta, porcentagem):.2f
 #     return gorjeta
 
 # valor_da_conta = 350.00
-# porcentagem = 1
+# porcentagem = 10
 
 # valor_gorjeta = calcular_gorjeta(valor_da_conta, porcentagem)
 # print(f"A gorjeta será de R$ {valor_gorjeta:.2f}")
